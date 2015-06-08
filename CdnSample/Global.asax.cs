@@ -6,6 +6,7 @@ namespace CdnSample
 {
     public class MvcApplication : System.Web.HttpApplication
     {
+//blah
         protected void Application_Start()
         {
             AreaRegistration.RegisterAllAreas();
